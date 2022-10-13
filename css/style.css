@@ -1,0 +1,13 @@
+@import url("reset.css");
+
+[class*=__container]{
+	margin: 0 auto;
+}
+
+.homework-9-image img{
+	max-width: 100%;
+}
+
+.homework-9-image img:not(:last-child){
+	margin-bottom: 50px;
+}
