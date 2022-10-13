@@ -2,6 +2,7 @@
 
 [class*=__container]{
 	margin: 0 auto;
+	max-width: 1200px;
 }
 
 .homework-9-image img{
